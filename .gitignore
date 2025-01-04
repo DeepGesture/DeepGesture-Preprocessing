@@ -12,3 +12,8 @@ data/zeroeggs/train/**.csv
 data/zeroeggs/valid/**.bvh
 data/zeroeggs/valid/**.wav
 data/zeroeggs/valid/**.csv
+
+align/**/**.txt
+align/**/*.csv
+align/**/*.wav
+align/**/*.lab
