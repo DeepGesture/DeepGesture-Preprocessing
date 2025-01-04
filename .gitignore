@@ -1,6 +1,14 @@
 .DS_Store
-data/
 *.h5
 *.npy
 output/h5/
 output/processed/
+
+
+data/full
+data/zeroeggs/train/**.bvh
+data/zeroeggs/train/**.wav
+data/zeroeggs/train/**.csv
+data/zeroeggs/valid/**.bvh
+data/zeroeggs/valid/**.wav
+data/zeroeggs/valid/**.csv
