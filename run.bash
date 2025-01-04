@@ -1,0 +1,1 @@
+mfa align --clean /Users/thanh/OpenHuman/OHGesture/ZeroEGGSProcessing/data_full/train/corpus english_us_arpa english_us_arpa /Users/thanh/OpenHuman/OHGesture/ZeroEGGSProcessing/data_full/train/aligned --output_format csv

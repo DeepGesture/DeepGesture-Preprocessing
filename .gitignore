@@ -1,3 +1,6 @@
 .DS_Store
-data/*
 data/
+*.h5
+*.npy
+output/h5/
+output/processed/
